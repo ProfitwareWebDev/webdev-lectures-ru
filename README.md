@@ -5,7 +5,8 @@
 ## Что содержит репозитарий
 
 Репозитарий содержит следующие элементы:
-1. Актуальный [план лекций с полезными ссылками](https://github.com/profitware/webdev-coaching/blob/master/plan/lectures_ru.md)
+
+1. Актуальный [план лекций с полезными ссылками](https://github.com/profitware/webdev-coaching/blob/master/plan/lectures_ru.md).
 2. Референсные файлы [HTML, CSS, etc.](https://github.com/profitware/webdev-coaching/tree/master/reference) - их можно использовать как шаблоны для новых файлов.
 3. По мере разработки курса, сюда будут добавлены полезные рекомендации шаблоны для бэкэнда и фронтэнда.
 
