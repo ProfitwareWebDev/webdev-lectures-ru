@@ -2,28 +2,31 @@
 
 1. Как работает Сеть
   * Что такое Интернет
-  * Как он работает [ref](https://www.youtube.com/watch?v=oj7A2YDgIWE)
-  * Что такое "клиент" и "сервер"
-  * Как работает протокол HTTP [ref](http://www.garshol.priv.no/download/text/http-tut.html)
+  * Как он работает: https://www.youtube.com/watch?v=oj7A2YDgIWE
+  * Что такое "клиент" и "сервер": [ref](https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
+  * Как работает протокол HTTP: http://www.garshol.priv.no/download/text/http-tut.html
     * URL
     * Методы
     * Пути
   * Что такое DNS и зачем
-  * HTML и CSS
+  * HTML и CSS: http://htmlbook.ru/
   * Статические и динамические сайты
-  * Инструментарий браузера
+  * Инструментарий браузера: https://habrahabr.ru/post/143767/ | https://developer.mozilla.org/ru/docs/Tools/Page_Inspector
 2. Инструментарий разработки
-  * Виртуальные машины для разработки
-  * Командная строка [ref](http://conqueringthecommandline.com/book/basics)
-    * Запуск
-    * Переход в директорию
-    * Создание, переименование, удаление директории или файла
-    * Права доступа
+  * Виртуальные машины для разработки: http://virtualbox.org/ & http://ubuntu.com/desktop
+  * Командная строка: http://conqueringthecommandline.com/book/basics
+    * Запуск: gnome-terminal (GNOME) | Teminal.app (Mac OS X) | cmd.exe (Microsoft Windows)
+    * Переход в директорию: cd
+    * Создание, переименование, удаление директории или файла: mkdir, mv | ren, rm | del
+    * Права доступа: chmod, chown
   * Системы контроля версий
-    * Клонирование репозитария
-    * Добавление файла в индекс
-    * Фиксация изменений
-    * Синхронизация изменений с удаленным репозитарием
-  * Интегрированные среды разработки
-3. Фронтэнд
-4. Бэкэнд
+    * Клонирование репозитария: git clone
+    * Добавление файла в индекс: git add, git rm
+    * Фиксация изменений: git commit
+    * Синхронизация изменений с удаленным репозитарием: git pull, git push
+    * Способ командной разработки Git Flow: https://habrahabr.ru/post/106912/
+  * Интегрированные среды разработки: https://www.jetbrains.com/pycharm/
+3. Бэкэнд: Flask | Django
+4. Верстка: Bootstrap
+5. Фронтэнд: jQuery & AngularJS | ReactJS
+6. Фоновая обработка задач: Celery
