@@ -10,6 +10,8 @@
     * Пути
   * Что такое DNS и зачем
   * HTML и CSS: http://htmlbook.ru/
+  * Валидация HTML: http://validator.w3.org/
+  * XHTML: http://www.w3schools.com/html/html_xhtml.asp
   * Статические и динамические сайты
   * Инструментарий браузера: https://habrahabr.ru/post/143767/ | https://developer.mozilla.org/ru/docs/Tools/Page_Inspector
 2. Инструментарий разработки
