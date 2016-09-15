@@ -7,9 +7,14 @@
 Репозитарий содержит следующие элементы:
 
 1. Актуальный [план лекций с полезными ссылками](https://github.com/profitware/webdev-coaching/blob/master/plan/lectures_ru.md).
-2. Актуальный [план практических занятия](https://github.com/profitware/webdev-coaching/blob/master/plan/practice_ru.md).
+2. Актуальный [план практических занятий](https://github.com/profitware/webdev-coaching/blob/master/plan/practice_ru.md).
 3. Референсные файлы [HTML, CSS, etc.](https://github.com/profitware/webdev-coaching/tree/master/reference) - их можно использовать как шаблоны для новых файлов.
 4. По мере разработки курса, сюда будут добавлены полезные рекомендации, шаблоны для бэкэнда и фронтэнда.
+
+Соседние репозитарии включают, но не ограничиваются:
+
+1. Репозитарием для первого практического занятия: https://github.com/ProfitwareWebDev/webdev-practice
+2. Репозитарием движка хостинга (его можно развернуть и у себя на компьютере): https://github.com/ProfitwareWebDev/webdev-hosting
 
 Принимаются пулл-реквесты. Еще активно принимаются пожелания в issues или на почту.
 
