@@ -34,6 +34,7 @@
   * Фиксация изменений: git commit
   * Синхронизация изменений с удаленным репозитарием: git pull, git push
   * Откатывание коммитов: git reset --hard HEAD~2 (где 2 - два коммита; git push -f)
+  * Ребейз и слияние: git rebase, git merge, git merge --no-ff
   * Способ командной разработки Git Flow: https://habrahabr.ru/post/106912/
 * Интегрированные среды разработки: https://www.jetbrains.com/pycharm/
 
@@ -43,7 +44,7 @@
 
 * HTML5: http://www.w3schools.com/html/html_intro.asp
   * Доступные возможности: https://modernizr.com/
-  * Улучшение CSS3: https://necolas.github.io/normalize.css/
+  * Нормализатор CSS3: https://necolas.github.io/normalize.css/
   * HTML5 Boilerplate: https://html5boilerplate.com/
 * Модульная сетка: https://habrahabr.ru/company/rambler-co/blog/261679/
 * Bootstrap: http://getbootstrap.com/
@@ -63,7 +64,18 @@
 
 ## Frontend
 
-Фронтэнд: jQuery
+Фронтэнд:
+
+* DOM-дерево: https://learn.javascript.ru/dom-nodes
+* jQuery: https://webref.ru/dev/jqfundamentals/jquery-basics
+  * Готовность DOM: $(document).ready()
+  * Селекторы: идентификаторы, класс, подэлементы
+  * Манипуляции с атрибутами и значениями: .html(), .attr(), .text(), .val(), .prop()
+  * Выборки: .is(), .each()
+  * Относительные элементы: .first(), .next(), .children(), .siblings(), .parent()
+  * Класс: .addClass(), .removeClass(), .toggleClass()
+  * Манипуляции с деревом: .append(), .appendTo(), .remove()
+  * События: .click(), .hover()
 
 ## Backend
 
