@@ -46,6 +46,7 @@
   * Доступные возможности: https://modernizr.com/
   * Нормализатор CSS3: https://necolas.github.io/normalize.css/
   * HTML5 Boilerplate: https://html5boilerplate.com/
+  * Инициализатор: http://www.initializr.com/
 * Модульная сетка: https://habrahabr.ru/company/rambler-co/blog/261679/
 * Bootstrap: http://getbootstrap.com/
   * Модульная сетка Bootstrap: https://webref.ru/layout/bootstrap/grid
