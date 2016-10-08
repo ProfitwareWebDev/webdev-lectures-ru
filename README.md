@@ -22,7 +22,7 @@
 
 Критерии оценки:
 
-* 9-10 баллов: Python (Flask, Celery) + Bootstrap | MDL + AngularJS | ReactJS;
+* 9-10 баллов: Python (Flask, Celery) + Bootstrap | MDL + AngularJS | ReactJS | jQuery (+ AJAX);
 * 6-8 баллов: Python (Flask) + Bootstrap + jQuery | AngularJS | ReactJS;
 * 5 баллов: HTML5 + CSS3;
 * 4 балла: HTML4 + CSS2.
