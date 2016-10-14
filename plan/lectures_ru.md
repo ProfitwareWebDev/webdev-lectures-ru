@@ -80,7 +80,15 @@
 
 ## Backend
 
-Бэкэнд: Flask | Django
+Бэкэнд:
+
+* Фреймворки Flask и Django
+  * Пути: http://flask.pocoo.org/docs/0.11/quickstart/#routing
+  * Шаблоны: http://flask.pocoo.org/docs/0.11/quickstart/#rendering-templates
+  * Декомпозиция на составные части: http://flask.pocoo.org/docs/0.11/blueprints/
+* Формы WTForms: http://wtforms.readthedocs.io/en/latest/
+* Нереляционная база данных MongoDB: http://mongodb.org/
+* Компоновка бэкэнда и фронтэнда, AJAX с использованием jQuery
 
 ## Modern Frontend
 
