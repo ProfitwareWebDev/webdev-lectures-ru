@@ -69,7 +69,7 @@
 
 Изучаем AJAX и поднимаем Celery:
    * Поднимаем бэкэнд + Bootstrap (см. предыдущие практики)
-   * Напоминание про url_for: http://flask.pocoo.org/docs/0.11/api/#flask.url\_for
+   * Напоминание про url\_for: http://flask.pocoo.org/docs/0.11/api/#flask.url_for
    * При нажатии на кнопку вызываем $.get с запросом роута с сервера: https://api.jquery.com/jQuery.get/
    * На бэкэнде используем jsonify, чтобы передавать JSON: http://flask.pocoo.org/docs/0.11/api/#flask.json.jsonify
    * Отправляем при нажатии на кнопку через AJAX запрос с количеством нажатий на кнопку
