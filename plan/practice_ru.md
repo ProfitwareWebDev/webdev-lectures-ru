@@ -64,3 +64,22 @@
    * Учимся создавать базовый шаблон и наследоваться от него: http://jinja.pocoo.org/docs/dev/templates/#template-inheritance
    * Учимся отдавать статику через бэкэнд
    * Демонстрация, как подружить Flask и Bootstrap (шаблон через Initializr)
+
+## Practice 5
+
+Изучаем AJAX и поднимаем Celery:
+   * Поднимаем бэкэнд + Bootstrap (см. предыдущие практики)
+   * Напоминание про url_for: http://flask.pocoo.org/docs/0.11/api/#flask.url\_for
+   * При нажатии на кнопку вызываем $.get с запросом роута с сервера: https://api.jquery.com/jQuery.get/
+   * На бэкэнде используем jsonify, чтобы передавать JSON: http://flask.pocoo.org/docs/0.11/api/#flask.json.jsonify
+   * Отправляем при нажатии на кнопку через AJAX запрос с количеством нажатий на кнопку
+   * На бэкэнде возводим в степень и возвращаем на фронтэнд
+   * На фронтэнде добавляем число нажатий и возведенное в степень в общую таблицу
+   * Ставим RabbitMQ + Erlang OTP + Celery + MongoDB
+   * Дружим Flask с Celery: http://flask.pocoo.org/docs/0.11/patterns/celery/
+   * Учимся создавать задания Celery и вызывать их через .delay: http://docs.celeryproject.org/en/latest/userguide/calling.html#example
+   * Добавляем задачу, делающую полезное действие - sleep(5) + вычисляющее третью степень числа аргумента
+   * Вызываем ее асинхронно при вызове обработчика для AJAX
+   * Добавляем еще один обработчик, возвращающий статус задачи через AsyncResult: http://docs.celeryproject.org/en/latest/reference/celery.result.html#celery.result.AsyncResult
+   * Добавляем при нажатии на кнопку функцию, делающую поллинг статуса задачи и рекурсивно вызывающую себя через секунду
+   * Заключительное слово и напутствие к экзамену
