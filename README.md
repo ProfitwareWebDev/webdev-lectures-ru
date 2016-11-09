@@ -38,3 +38,9 @@
 
 * https://hh.ru/vacancy/18216066
 * https://hh.ru/vacancy/17792698
+
+## Вомбат Сергей
+
+![Wombat Sergey](https://raw.githubusercontent.com/ProfitwareWebDev/webdev-lectures-ru/master/misc/mascot.png "Wombat Sergey")
+
+[Special thanks for mascot](https://vk.com/wall-111548911_2129)
